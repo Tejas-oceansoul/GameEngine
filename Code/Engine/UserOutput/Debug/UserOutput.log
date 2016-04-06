@@ -1,0 +1,10 @@
+﻿Build started 9/1/2015 10:08:10 AM.
+     1>Project "C:\Users\u0923408\Desktop\Game Engineering II\Shah_Tejas\Code\Engine\UserOutput\UserOutput.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\u0923408\Desktop\Game Engineering II\Shah_Tejas\Debug\UserOutput.lib" /NOLOGO Debug\UserOutput.obj
+         UserOutput.vcxproj -> C:\Users\u0923408\Desktop\Game Engineering II\Shah_Tejas\Debug\UserOutput.lib
+     1>Done Building Project "C:\Users\u0923408\Desktop\Game Engineering II\Shah_Tejas\Code\Engine\UserOutput\UserOutput.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

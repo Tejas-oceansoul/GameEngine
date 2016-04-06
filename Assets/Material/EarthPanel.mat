@@ -1,0 +1,18 @@
+return
+{
+	effect = "data/Effect/Effect.lua",
+	textures = 
+	{
+
+		handleName = "g_sampler",
+		path = "data/Texture/EarthPanel.jpg",
+	},
+	uniforms =
+	{
+		{
+			handleName = "g_RGB",
+			values = { 1, 1, 1},
+			shaderType = "fragment",
+		},
+	},
+}
